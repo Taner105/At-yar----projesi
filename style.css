@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#finish{
+    width: 50px;
+    height: 428px;
+    position: relative;
+    float: right;
+    background-color: black;
+    margin-right: 5px;
+}
+.container{
+    background-color: green;
+}
+img{
+    background-color: green;
+    width: 80px;
+    height: 80px;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+}
+button{
+    width: 150px;
+    height: 65px;
+    font-size: 25px;
+    margin-left: 550px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: firebrick;
+    color: #fff;
+    opacity: .8;
+}
+button:hover{
+    background-color: greenyellow;
+    color: black;
+}
